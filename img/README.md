@@ -1,0 +1,1 @@
+python generate.py --text_path=./txt/chinese_chars.txt --font_dir=./font --font_size=50 --width=64 --height=64 --out_dir=./img --rotate_angle=30 --rotate_step=10 --need_aug
